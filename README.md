@@ -1,4 +1,4 @@
-# Authentication-
+# CRUD OPERTAION-
 <b>Prerequisites Be sure you have the following installed on your development machine:</b>
 <h1>System Requirement</h1>
 <p>
@@ -7,5 +7,4 @@
     Install Django version 2.2.0 <br>
     Install all dependencies cmd -python -m pip install –-user -r requirements.txt
 </p>
-<b>Finally run cmd - python manage.py runserver</b><p>when you run that command then it will return some link like http://127.0.0.1:8000/ then simply copy the link and paste on the browser </p>
-<br> <b>admin</b> <br> username - admin <br> admin password - admin
+<b>Finally run cmd - python app.py</b><p>when you run that command then it will return some link like http://127.0.0.1:8000/ then simply copy the link and paste on the browser </p>
